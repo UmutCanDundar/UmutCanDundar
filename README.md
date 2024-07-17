@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ForlornMuskeg (Umut Can Dundar);
+- 👋 Hi, I’m Umut Can Dundar;
   
 - 👀 I’m actually electrical and electronics engineer but very interested in programming;
   
